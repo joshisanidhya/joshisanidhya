@@ -10,9 +10,15 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/joshisanidhya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<!-- ========================= -->
+<!-- Social Badges (Temporarily Disabled) -->
+<!-- ========================= -->
+<!--
   <a href="https://leetcode.com/u/joshisanidhya"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://codeforces.com/profile/sanidhya_joshi"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
   <a href="https://sanidhya-joshi-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+-->
+<!-- End Social Badges -->
   <a href="mailto:sanidhyajoshi.v24@iiits.in"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=joshisanidhya&color=ff2020&style=flat-square&label=VIEWS" alt="Visitor Counter" />
 </p>
