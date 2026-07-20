@@ -32,8 +32,8 @@ Hello! I'm **Sanidhya Joshi**, a B.Tech Computer Science and Engineering student
 I am a software engineer specializing in **Full Stack Development**, **Backend Systems**, and **AI/ML Solutions**. My work focus centers on building highly interactive, real-time web applications, designing scalable backend systems, and engineering semantic document intelligence platforms (RAG pipelines).
 
 ### 📡 Core Operatives:
-- 💼 **Lead Full Stack Developer** for the **Full Stack Development Team** at IIIT Sri City, directing the architecture of real-time collaborative systems.
 - 🔬 **Research Student** in **Air Pollution & Financial Data Science**, analyzing relationships between environmental metrics and economic indicators using predictive models, statistical analysis, and the U.S. EPA's BenMAP software.
+- 💼 **Lead Full Stack Developer** for the **Full Stack Development Team** directing the architecture of real-time collaborative systems.
 - 🏆 **Competitive Programmer** active on **LeetCode, Codeforces, and CodeChef**.
 - 🎨 **UI/UX & Creative Designer** focusing on clean, Monochromatic HUD interfaces and system dashboard aesthetics.
 
