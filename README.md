@@ -56,6 +56,10 @@ I am a software engineer specializing in **Full Stack Development**, **Backend S
 
 ---
 
+<!-- ========================= -->
+<!-- Competitive Programming & Analytics (Temporarily Disabled) -->
+<!-- ========================= -->
+<!--
 ## ✦ Competitive Programming & Analytics
 
 <p align="center">
@@ -88,7 +92,13 @@ I am a software engineer specializing in **Full Stack Development**, **Backend S
 </p>
 
 ---
+-->
+<!-- End Competitive Programming & Analytics -->
 
+<!-- ========================= -->
+<!-- Contribution Grid Activity (Temporarily Disabled) -->
+<!-- ========================= -->
+<!--
 ## ✦ Contribution Grid Activity
 
 <p align="center">
@@ -100,6 +110,8 @@ I am a software engineer specializing in **Full Stack Development**, **Backend S
 </p>
 
 ---
+-->
+<!-- End Contribution Grid Activity -->
 
 ## ✦ Honors & Awards
 - 🥇 **LeetCode Competitive Programming** | LeetCode, CodeForces, CodeChef
