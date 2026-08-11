@@ -27,7 +27,7 @@
 
 ## ✦ Subject Profile // About Me
 
-Hello! I'm **Sanidhya Joshi**, a B.Tech Computer Science and Engineering student at the **Indian Institute of Information Technology, Sri City (IIITS)** (GPA: **9.24/10**). 
+Hello! I'm **Sanidhya Joshi**, a B.Tech Computer Science and Engineering student at the **Indian Institute of Information Technology, Sri City (IIITS)**. 
 
 I am a software engineer specializing in **Full Stack Development**, **Backend Systems**, and **AI/ML Solutions**. My work focus centers on building highly interactive, real-time web applications, designing scalable backend systems, and engineering semantic document intelligence platforms (RAG pipelines).
 
