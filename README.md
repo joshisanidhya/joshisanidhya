@@ -43,9 +43,9 @@ I am a software engineer specializing in **Full Stack Development**, **Backend S
 
 | Project / Codebase | Technical Narrative & Observations | Core Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[Axion](https://github.com/joshisanidhya/collaborative-code-editor)** <br> <sub>[Live Demo](https://collaborative-code-editor-gamma-one.vercel.app/)</sub> | **Real-Time Collaborative Code Editor**<br>• Low-latency code synchronization via Socket.IO client-server event streams.<br>• Secure room management and active presence/typing indicators.<br>• Multi-user live editing and shared code execution via Judge0 CE REST API. | React 18, Node.js, Express, Socket.IO, PostgreSQL, Prisma ORM, Monaco Editor, Docker | `Active` |
-| **[SAGE](https://github.com/joshisanidhya/ai-pdf-chatbot)** <br> <sub>[Vector AI]</sub> | **Semantic AI Generation Engine (RAG Chatbot)**<br>• AI document assistant extracting context from uploaded PDFs.<br>• Context-aware conversations grounded via similarity vector search.<br>• Token-optimized chunking and local embeddings (`all-MiniLM-L6-v2`). | Python, FastAPI, LangChain, MongoDB, `@xenova/transformers`, Sentence-Transformers, OpenRouter | `Active` |
-| **[Automata Studio](https://github.com/joshisanidhya/toc)** <br> <sub>[Live Demo](https://automata-studio-toc.vercel.app/)</sub> | **Theory of Computation Simulator**<br>• Interactive simulator for DFA, NFA, PDA, and Turing Machines.<br>• Visualizes computational transitions and state execution paths.<br>• Custom-built SVG rendering engine and smooth state-transition animations. | React.js, JavaScript, Custom SVG Transitions | `Completed` |
+| **[SAGE – AI PDF Chatbot](https://github.com/joshisanidhya/ai-pdf-chatbot)** | **Retrieval-Augmented Generation (RAG)**<br>• Answers natural-language questions using context extracted from uploaded PDFs.<br>• Processes documents through extraction, semantic chunking, local embeddings, similarity retrieval, prompt synthesis, and response generation.<br>• Routes inference across Mistral, Claude, and GPT-4 through OpenRouter. | Node.js, LangChain, MongoDB, OpenRouter, `all-MiniLM-L6-v2` | `Completed` |
+| **[OpenHotspot](https://github.com/joshisanidhya/OpenHotspot)** | **Linux Wi-Fi Hotspot CLI**<br>• Published an open-source tool on PyPI with 8+ hotspot management operations.<br>• Includes QR credential sharing, connected-client tracking, and daemon logging.<br>• Runs 14 hardware and network checks and supports concurrent access point and internet connectivity. | Python, Linux, NetworkManager, `nmcli` | `Completed` |
+| **[Automata Studio](https://github.com/joshisanidhya/toc)** <br> <sub>[Live Demo](https://automata-studio-toc.vercel.app/)</sub> | **Theory of Computation Simulator**<br>• Interactive modules for DFA, NFA, Mealy, Moore, PDA, and Turing machines.<br>• Implements NFA-to-DFA conversion and DFA minimization.<br>• Renders state graphs and animated execution paths with custom SVG. | React.js, JavaScript, SVG | `Completed` |
 
 ---
 
@@ -119,10 +119,10 @@ I am a software engineer specializing in **Full Stack Development**, **Backend S
 -->
 <!-- End Contribution Grid Activity -->
 
-## ✦ Honors & Awards
-- 🥇 **LeetCode Competitive Programming** | LeetCode, CodeForces, CodeChef
-- 🏷️ **IAENG Member** | Member of the International Association of Engineers | *March 2026*
-- 👥 **Lead Full Stack Developer** | Lead of Technical Development Team | *Jan 2026*
+## ✦ Achievements & Recognition
+- 🏅 **Flipkart GRiD 8.0** | National Semi-Finalist | *June 2026*
+- 🧩 **Competitive Programming** | LeetCode rating: **1721**; active on LeetCode and Codeforces
+- 🌐 **IAENG Member** | International Association of Engineers | *March 2026*
 
 ---
 
