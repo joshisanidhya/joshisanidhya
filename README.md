@@ -121,7 +121,7 @@ I am a software engineer specializing in **Full Stack Development**, **Backend S
 
 ## ✦ Achievements & Recognition
 - 🏅 **Flipkart GRiD 8.0** | National Semi-Finalist | *June 2026*
-- 🧩 **Competitive Programming** | LeetCode rating: **1721**; active on LeetCode and Codeforces
+- 🧩 **Competitive Programming** | active on LeetCode and Codeforces
 - 🌐 **IAENG Member** | International Association of Engineers | *March 2026*
 
 ---
